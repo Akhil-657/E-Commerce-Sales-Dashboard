@@ -2,7 +2,6 @@
 
 An interactive Power BI dashboard that analyzes e-commerce sales, profit, and customer behavior to show **what sells, where, and when the business makes (or loses) money**.
 
-![E-Commerce Sales Dashboard](E-Commerce_Sales_Dashboard.png)
 
 ## 🎯 Objective
 To track sales performance across states, categories, payment modes, and months, and to identify the products and periods that drive or hurt profit.
